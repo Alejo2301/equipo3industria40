@@ -1,4 +1,10 @@
-# Vanilla JavaScript App
+# Universidad Anáhuac Querétaro
+# Generalidades de la Industria 4.0
+# Alumnos:
+# Andrés Riojas Fernández
+# Fabiana Martín de la Torre
+# Juan Manuel Sánchez Uribe
+# Alejo Cruz Del Villar
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
 
